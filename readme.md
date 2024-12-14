@@ -77,7 +77,7 @@
     <img alt="linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
   
-  <a href="mailto:toczekmj@gmail.com">
+  <a href="mailto:sahitoattique@gmail.com">
     <img align="center" style="margin-top:-20px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
   </a>
 </div>
