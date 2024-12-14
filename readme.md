@@ -1,24 +1,22 @@
-<h1 align="center">Hi 👋, I'm Attique | MERN Stack Developer</h1>
-<h3 align="center">Computer Science Student</h3>
-<h3 align="center">COMSAT University graduate</h3>
+# Hi 👋, I'm Attique | MERN Stack Developer
+
+### Computer Science Student
+
+### COMSAT University graduate
 
 - 🔭 I’m currently working on [**MangaOCR**](https://github.com/bluseel/MangaOCR)
-
 - 🌱 I’m currently learning **Next.js** | **Vim**
-
 - 🤝 I’m willing to learn [RUST](https://github.com/rust-lang/rust)
-
 - 💬 Ask me about **MERN**
-
 - 📫 How to reach me [**sahitoattique@gmail.com**](mailto:sahitoattique@gmail.com)
-
 - 📄 [Look at my resume](https://docs.google.com/document/d/1lqAmidZyoQNcMgomlAnSbVO5Ca8q54Dk/edit?usp=sharing&ouid=105369342806885158011&rtpof=true&sd=true)
 
 <!-- - ⚡ Fun fact **I love briyani ❤️❤️** -->
 
-&nbsp;
+---
 
-<h3 align="center">Languages and Tools:</h3>
+### Languages and Tools:
+
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
@@ -34,8 +32,7 @@
   </a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
     <img alt="threejs" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" />
-
-</a>
+  </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
   </a>
@@ -45,7 +42,6 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Next.js" width="40" height="40"/>
   </a>
-
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a> 
@@ -66,14 +62,15 @@
   </a> 
 </p>
 
-&nbsp;
+---
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluseel&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
 </div>
-&nbsp;
 
-<h3 align="center">Connect with me:</h3>
+---
+
+### Connect with me:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/attique-sahito/">
@@ -84,5 +81,3 @@
     <img align="center" style="margin-top:-20px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
   </a>
 </div>
-
-&nbsp;
