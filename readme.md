@@ -4,10 +4,10 @@
 
 ### COMSAT University graduate
 
-- 🔭 I’m currently working on [**MangaOCR**](https://github.com/bluseel/MangaOCR)
-- 🌱 I’m currently learning **Next.js** | **Vim**
+- 🔭 I’m currently working on [**AVSE-COGMHEAR**](https://challenge.cogmhear.org/#/)
+- 🌱 I’m currently learning **Artificial Intelligence** | **Vim**
 - 🤝 I’m willing to learn [RUST](https://github.com/rust-lang/rust)
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN, AiMl**
 - 📫 How to reach me [**sahitoattique@gmail.com**](mailto:sahitoattique@gmail.com)
 - 📄 [Look at my resume](https://docs.google.com/document/d/1lqAmidZyoQNcMgomlAnSbVO5Ca8q54Dk/edit?usp=sharing&ouid=105369342806885158011&rtpof=true&sd=true)
 
