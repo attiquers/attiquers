@@ -1,12 +1,12 @@
-# Hi 👋, I'm Attique | MERN Stack Developer
+# Hi 👋, I'm Attique | AI/ML Engineer | Full Stack Developer
 
 ### Computer Science Student
 
 ### COMSAT University graduate
-
-- 🔭 I’m currently working on [**AVSE-COGMHEAR**](https://challenge.cogmhear.org/#/)
-- 🌱 I’m currently learning **Artificial Intelligence** | **Vim**
-- 🤝 I’m willing to learn [RUST](https://github.com/rust-lang/rust)
+- Looking for a job
+- 🔭 I’m currently working on [**FYP - AI Communication Enhancer**]('')
+- 🌱 I’m currently learning **.NEOVIM** | **ARCH**
+- 🤝 I’m willing to learn [NET](https://dotnet.microsoft.com/en-us/)
 - 💬 Ask me about **MERN, AiMl**
 - 📫 How to reach me [**sahitoattique@gmail.com**](mailto:sahitoattique@gmail.com)
 - 📄 [Look at my resume](https://docs.google.com/document/d/1lqAmidZyoQNcMgomlAnSbVO5Ca8q54Dk/edit?usp=sharing&ouid=105369342806885158011&rtpof=true&sd=true)
