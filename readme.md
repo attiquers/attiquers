@@ -1,15 +1,15 @@
-# Hi 👋, I'm Attique | AI/ML Engineer | Full Stack Developer
+# Hi 👋, I'm Attique | Full Stack Developer | ML Engineer 
 
 ### Computer Science Student
 
 ### COMSAT University graduate
 - Looking for a job
-- 🔭 I’m currently working on [**FYP - AI Communication Enhancer**]('')
-- 🌱 I’m currently learning **NEOVIM** | **ARCH**
-- 🤝 I’m willing to learn [.NET](https://dotnet.microsoft.com/en-us/)
-- 💬 Ask me about **MERN, AiMl**
+- 🔭 I’m currently working on [**thesuit**]('https://thesuit.vercel.app/')
+- 🌱 I’m currently learning  [Python](https://automatetheboringstuff.com/)
+- 🤝 I’m willing to learn [NextJs](https://nextjs.org/)
+- 💬 Ask me about **MERN, Ml**
 - 📫 How to reach me [**sahitoattique@gmail.com**](mailto:sahitoattique@gmail.com)
-- 📄 [Look at my resume](https://docs.google.com/document/d/1lqAmidZyoQNcMgomlAnSbVO5Ca8q54Dk/edit?usp=sharing&ouid=105369342806885158011&rtpof=true&sd=true)
+- 📄 [Look at my resume](https://docs.google.com/document/d/1hrVVy0rQvi9tQqXVq5wbAiavwq6kCeeBvH3z0GdO2u4/edit?usp=sharing)
 
 <!-- - ⚡ Fun fact **I love briyani ❤️❤️** -->
 
