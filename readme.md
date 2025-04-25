@@ -65,7 +65,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluseel&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attiquers&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
 </div>
 
 ---
