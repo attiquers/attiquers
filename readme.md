@@ -4,7 +4,7 @@
 
 ### COMSAT University graduate
 - Looking for a job
-- 🔭 I’m currently working on [thesuit](https://thesuit.vercel.app/)
+- 🔭 I’m currently working on [pokedex](https://github.com/attiquers/pokedex)
 - 🌱 I’m currently learning  [Python](https://automatetheboringstuff.com/)
 - 🤝 I’m willing to learn [NextJs](https://nextjs.org/)
 - 💬 Ask me about **MERN, Ml**
