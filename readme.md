@@ -1,13 +1,12 @@
-# Hi 👋, I'm Attique | Full Stack Developer | ML Engineer 
+# Hi 👋, I'm Attique | GenAi Stack Developer | Langchain | n8n 
 
 ### Computer Science Student
 
 ### COMSAT University graduate
 - Looking for a job
-- 🔭 I’m currently working on [pokedex](https://github.com/attiquers/pokedex)
-- 🌱 I’m currently learning  [Python](https://automatetheboringstuff.com/)
-- 🤝 I’m willing to learn [NextJs](https://nextjs.org/)
-- 💬 Ask me about **MERN, Ml**
+- 🔭 I’m currently working on [Ollama-UI](https://github.com/attiquers/ollama-ui)
+- 🌱 I’m currently learning  [Docker](https://docs.docker.com/)
+- 💬 Ask me about **MERN, Langchain, n8n**
 - 📫 How to reach me [**sahitoattique@gmail.com**](mailto:sahitoattique@gmail.com)
 - 📄 [Look at my resume](https://docs.google.com/document/d/1hrVVy0rQvi9tQqXVq5wbAiavwq6kCeeBvH3z0GdO2u4/edit?usp=sharing)
 
