@@ -1,9 +1,5 @@
-# Hi 👋, I'm Attique | GenAi Stack Developer | Langchain | n8n 
+# Hi 👋, I'm Attique | GenAi Developer | Langchain | n8n 
 
-### Computer Science Student
-
-### COMSAT University graduate
-- Looking for a job
 - 🔭 I’m currently working on [Ollama-UI](https://github.com/attiquers/ollama-ui)
 - 🌱 I’m currently learning  [Docker](https://docs.docker.com/)
 - 💬 Ask me about **MERN, Langchain, n8n**
